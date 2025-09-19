@@ -20,7 +20,7 @@ It shows a calculator interface with buttons for basic arithmetic operations, bu
 2. You can see the calculator layout and click buttons (UI only).
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screen_of_calculator.png)
 
 ## Author
 Nahed Magdy
